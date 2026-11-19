@@ -2,7 +2,7 @@
 
 I'm a Computer Science graduate.
 
-💻 Interested in Software Development and Data Migration.
+💻 Interested in Software Development, Data Migration and SAP Consultant.
 
 ## 🛠️ Tech Stack
 
