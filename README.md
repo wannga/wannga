@@ -16,3 +16,4 @@ I'm a Computer Science graduate.
 
 - GitHub: [@wannga](https://github.com/wannga)
 - LinkedIn: [Wanwalai Ngamsattha](https://www.linkedin.com/in/wanwalai-ngamsattha-b2066931b/)
+- Email : wanwalai.ng@gmail.com
