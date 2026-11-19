@@ -12,11 +12,6 @@ I'm a Computer Science graduate.
 - **Database:** SQL, PostgreSQL
 - **Tools:** Git, SAP, Salesforce, Figma, Microsoft Excel
 
-## 🌱 Currently Learning
-
-- Data Engineering
-- Cloud Technologies
-
 ## 📫 Connect with Me
 
 - GitHub: [@wannga](https://github.com/wannga)
